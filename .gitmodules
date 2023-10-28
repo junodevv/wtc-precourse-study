@@ -1,3 +1,4 @@
 [submodule "java-baseball-6-feedback"]
 	path = java-baseball-6-feedback
 	url = https://github.com/junodevv/java-baseball-6.git
+    branch = feedback
