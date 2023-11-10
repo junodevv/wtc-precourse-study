@@ -1,4 +1,4 @@
-# 3. Angular 커밋 메시지 컨벤션 요약
+# Angular 커밋 메시지 컨벤션 요약
 
 [Angular 커밋 메시지 컨벤션](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
